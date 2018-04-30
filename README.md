@@ -21,3 +21,12 @@ Fallout 4
 
 
 
+Honorable mentions (mod content/information/PDF/video/pictures/references etc.)
+
+Hosted outside GitHub, Open-Source
+
+
+Hosted outside GitHub, not Open- Source
+
+
+
